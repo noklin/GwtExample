@@ -1,0 +1,12 @@
+**/.idea
+**.iml
+**/target
+**.project
+**.settings
+**.classpath
+**/gwt-unitCache
+**.class
+**/classes
+**/lib
+/war
+/src/main/webapp/launcher

@@ -1,0 +1,10 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+	xmlns:my="urn:import:com.example.client.ui" xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+	<g:HTMLPanel ui:field="rootPanel" styleName="b-tab__service">
+		<input ui:field="id" placeholder="id" />
+		<input ui:field="name" placeholder="name" />
+		<input ui:field="age" placeholder="age" /> 
+		<g:Button ui:field="hideBtn">hide</g:Button>
+	</g:HTMLPanel> 
+</ui:UiBinder>
